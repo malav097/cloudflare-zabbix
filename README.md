@@ -11,11 +11,8 @@ given range of time. Also returns the percentage of 5xx errors in the same range
 ![git2](https://user-images.githubusercontent.com/44653624/68424514-f3730880-0182-11ea-8272-53c2162ceb91.png)
 
 
-![git1](https://user-images.githubusercontent.com/44653624/68424523-f79f2600-0182-11ea-8559-18f5fd0a2fd3.png)
 
 
-
-![Screenshot_2019-11-07 Search](https://user-images.githubusercontent.com/44653624/68424543-008ff780-0183-11ea-9d93-f713184df5ca.png)
 
 
 
@@ -40,10 +37,16 @@ given range of time. Also returns the percentage of 5xx errors in the same range
    and will also create the hosts referenced in the configuration file 
    `cloudflare.ini` . It will assign a lld rule and a item prototype 
    to each one of those previously created hosts.
+   
+   ![Screenshot_2019-11-07 Search](https://user-images.githubusercontent.com/44653624/68424543-008ff780-0183-11ea-9d93-f713184df5ca.png)
+
+   
 
    The item prototype will create one item per status code discovered through
    low lever discovery rule and also will create a item called `Porcentaje_errores_500`
    that will show the percentage of 5xx errors for each host
+   
+   ![git1](https://user-images.githubusercontent.com/44653624/68424523-f79f2600-0182-11ea-8559-18f5fd0a2fd3.png)
 
     
  5) Wait for 30 minutes and the items data will be populated.
