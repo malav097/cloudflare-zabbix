@@ -4,6 +4,20 @@ A Cloudflare-Zabbix integration to monitor and calculate the total amount of all
 given range of time. Also returns the percentage of 5xx errors in the same range of time.
 
 
+![git3](https://user-images.githubusercontent.com/44653624/68424507-ed7d2780-0182-11ea-9c05-b9a01c64f7f5.png)
+
+
+
+![git2](https://user-images.githubusercontent.com/44653624/68424514-f3730880-0182-11ea-8272-53c2162ceb91.png)
+
+
+![git1](https://user-images.githubusercontent.com/44653624/68424523-f79f2600-0182-11ea-8559-18f5fd0a2fd3.png)
+
+
+
+![Screenshot_2019-11-07 Search](https://user-images.githubusercontent.com/44653624/68424543-008ff780-0183-11ea-9d93-f713184df5ca.png)
+
+
 
 # Instructions: 
 
