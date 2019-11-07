@@ -48,4 +48,10 @@ cloudflare_token = 7evfset01f1324156378b24d922a287e908ph
 The Zabbix user must be a 'Zabbix Super Admin' type of user
 
 
+
+
+
+
+
+
 Author: Simon Malave <simongmalav@gmail.com>
