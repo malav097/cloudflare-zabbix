@@ -13,8 +13,8 @@ given range of time. Also returns the percentage of 5xx errors in the same range
 
  2) Modify the configuration file `cloudflare.ini`
 
- 3) Locate the files `cloudflare.py` and 'cloudflare.ini' inside
-    '/usr/lib/zabbix/externalscripts' (depends on linux distribution ) and give ownership
+ 3) Locate the files `cloudflare.py` and `cloudflare.ini` inside
+    `/usr/lib/zabbix/externalscripts` (depends on linux distribution ) and give ownership
     of those files to the user that runs the `zabbix_server` process
 
 
