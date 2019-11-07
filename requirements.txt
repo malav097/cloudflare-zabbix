@@ -1,0 +1,2 @@
+cloudflare==2.3.0
+py-zabbix==1.1.5
