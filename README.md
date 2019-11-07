@@ -1,4 +1,4 @@
-# cloudflare.py
+# cloudflare-zabbix
 
 A Cloudflare-Zabbix integration to monitor and calculate the total amount of all status codes from  different sites in a
 given range of time. Also returns the percentage of 5xx errors in the same range of time.
@@ -38,9 +38,12 @@ given range of time. Also returns the percentage of 5xx errors in the same range
 
 Configuration file for 'cloudflare.py'
 
-write the data in the following format
+Write the data in the following format
+```
 cloudflare_user = user@example.com
+
 cloudflare_token = 7evfset01f1324156378b24d922a287e908ph 
+```
 
 The Zabbix user must be a 'Zabbix Super Admin' type of user
 
