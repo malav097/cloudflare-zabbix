@@ -53,7 +53,7 @@ given range of time. Also returns the percentage of 5xx errors in the same range
 
 # cloudflare.ini:
 
-Configuration file for 'cloudflare.py'
+Configuration file for `cloudflare.py`
 
 Write the data in the following format
 ```
